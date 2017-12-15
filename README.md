@@ -1,4 +1,4 @@
-# RGWordGenerator #
+# Rohschinken Games Word Generator #
 
 Random Word Generator e.g. for player names, item names, city names etc.
 
